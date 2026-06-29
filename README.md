@@ -1,11 +1,5 @@
 # Discord self-bot video
 
-[![pkg.pr.new](https://pkg.pr.new/badge/Discord-RE/Discord-video-stream)](https://pkg.pr.new/~/Discord-RE/Discord-video-stream)
-
-Fork: [Discord-video-experiment](https://github.com/mrjvs/Discord-video-experiment)
-
-> [!CAUTION]
-> Using any kind of automation programs on your account can result in your account getting permanently banned by Discord. Use at your own risk
 
 ## Features
 
